@@ -1,4 +1,4 @@
-# simple-storage-smart-contract
+# Simple Storage Smart Contract
 
 The first line tells us that the source code is licensed under the MIT. Machine-readable license specifiers are important in a setting where publishing the source code is the default.
 
